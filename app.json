@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "hitech_weather_app",
+    "githubUrl": "https://github.com/k1a11220/hitech_weather"
   }
 }
